@@ -1,4 +1,4 @@
-@import '../constants/colors.scss';
+
 
 .wrapper {
   font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -7,7 +7,6 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: $invertido;
 }
 
 h1 {

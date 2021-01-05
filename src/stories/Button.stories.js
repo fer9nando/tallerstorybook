@@ -1,7 +1,6 @@
 import React from 'react';
 
 import { Button } from './Button';
-import '../constants/globalstyles.scss';
 
 
 export default {
